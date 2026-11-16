@@ -1,0 +1,9 @@
+Dataset,Test,P_Value,Significance_Level,Status
+Raw Quantum Bits,Frequency Test,0.42371079716679344,0.01,PASS
+Raw Quantum Bits,Block Frequency Test,0.7479605086847183,0.01,PASS
+Raw Quantum Bits,Runs Test,0.6357635557125583,0.01,PASS
+Raw Quantum Bits,Approximate Entropy Test,0.9219212441884044,0.01,PASS
+Debiased Quantum Bits,Frequency Test,0.3730611777527772,0.01,PASS
+Debiased Quantum Bits,Block Frequency Test,0.3213210837157706,0.01,PASS
+Debiased Quantum Bits,Runs Test,0.3230959927065922,0.01,PASS
+Debiased Quantum Bits,Approximate Entropy Test,0.49678651838734866,0.01,PASS

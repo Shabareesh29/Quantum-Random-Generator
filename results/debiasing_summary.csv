@@ -1,0 +1,12 @@
+Metric,Value
+Original Bits,10000.0
+Original Zeros,4960.0
+Original Ones,5040.0
+Retained Pairs,2440.0
+Discarded Pairs,2560.0
+Debiased Bits,2440.0
+Debiased Zeros,1242.0
+Debiased Ones,1198.0
+Zero Percentage,50.90163934426229
+One Percentage,49.09836065573771
+Debiasing Efficiency,48.8
